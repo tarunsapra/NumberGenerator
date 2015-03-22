@@ -1,0 +1,1 @@
+Test project for integration with jenkins and some testing of the OAuth github plugin
