@@ -1,1 +1,1 @@
-Test project for integration with jenkins and some testing of the OAuth github plugin
+Test project for integration with jenkins on DigitalOcean and some testing of the OAuth github plugin
