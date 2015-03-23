@@ -23,7 +23,6 @@
         <version>2.7</version>
         	<configuration>
                     <formats>
-                    	<format>html</format>
                         <format>xml</format>
                     </formats>
                 </configuration>
